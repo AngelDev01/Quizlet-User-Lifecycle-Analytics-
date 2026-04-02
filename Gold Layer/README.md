@@ -23,6 +23,5 @@ Kimball dimensional model in `analytics` schema for optimized querying. Surrogat
 
 ## Relationships
 fact_study_sessions → dim_user, dim_set, dim_date
-fact_subscriptions → dim_user,
-dim_subscription_plan, dim_date (×2)
+fact_subscriptions → dim_user, dim_subscription_plan, dim_date (×2)
 fact_set_creation → dim_user, dim_date
