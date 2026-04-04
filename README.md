@@ -30,7 +30,7 @@ Interactive Power BI dashboard: **[NovyPro/Power BI Service Link]**
 ## Data Pipeline Architecture
 
 <p align="center">
-  <img src="./assets/data_pipeline_architecture.png" alt="Data Pipeline Architecture" width="600"/>
+  <img src="./assets/data_pipeline_architecture.png" alt="Data Pipeline Architecture" width="900"/>
 </p>
 
 *End-to-end pipeline from raw ingestion to BI dashboard.*
@@ -40,7 +40,7 @@ Interactive Power BI dashboard: **[NovyPro/Power BI Service Link]**
 The analysis draws from a Kimball dimensional star schema in the `analytics` schema comprising five tables (three dimensions, two facts) totaling **461,379 records**:
 
 <p align="center">
-  <img src="./assets/star_schema_diagram.png" alt="Star Schema Diagram" width="500"/>
+  <img src="./assets/star_schema_diagram.png" alt="Star Schema Diagram" width="700"/>
 </p>
 
 **Data Quality & Design Notes**
@@ -124,8 +124,8 @@ Quizlet grew Weekly Active Learners from **143 to 7,989 users (+5,490%)** in 5 w
 - **Main Insight 4: Trial reduces time to conversion significantly.** Free→Premium median: 18 days; Trial→Paid median: 11 days. **Business metric:** Median days to upgrade. **Quantified value:** 7-day acceleration with trial; concentrate conversion efforts in first 2 weeks of trial.
 
 <p align="center">
-  <img src="./Dashboard/06_monetization.png" alt="Subscription bars" width="350"/>
-  <img src="./Dashboard/07_session_duration.png" alt="Session Duration Histogram" width="350"/>
+  <img src="./Dashboard/06_monetization.png" alt="Subscription bars" width="400"/>
+  <img src="./Dashboard/07_session_duration.png" alt="Session Duration Histogram" width="400"/>
 </p>
 
 
