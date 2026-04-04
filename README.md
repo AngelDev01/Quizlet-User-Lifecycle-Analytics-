@@ -29,7 +29,9 @@ Interactive Power BI dashboard: **[NovyPro/Power BI Service Link]**
 
 ## Data Pipeline Architecture
 
-![Data Pipeline Architecture](./assets/data_pipeline_architecture.png)
+<p align="center">
+  <img src="./assets/data_pipeline_architecture.png" alt="Data Pipeline Architecture" width="600"/>
+</p>
 
 *End-to-end pipeline from raw ingestion to BI dashboard.*
 
@@ -37,7 +39,9 @@ Interactive Power BI dashboard: **[NovyPro/Power BI Service Link]**
 
 The analysis draws from a Kimball dimensional star schema in the `analytics` schema comprising five tables (three dimensions, two facts) totaling **461,379 records**:
 
-![Star Schema Diagram](./assets/star_schema_diagram.png) 
+<p align="center">
+  <img src="./assets/star_schema_diagram.png" alt="Star Schema Diagram" width="500"/>
+</p>
 
 **Data Quality & Design Notes**
 - Integer `date_id` format optimizes join performance versus DATE types  
