@@ -14,16 +14,18 @@ Recommendations from this analysis would be used by the **Marketing Team** to al
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1: Growth & Acquisition** – WAL trends, new vs. returning users, acquisition wind-down impact
-- **Category 2: Activation & Onboarding** – Channel performance, time to first study, activation consistency
-- **Category 3: Retention & Cohort Health** – Early retention stability, mid-term decay patterns, cohort size context
-- **Category 4: Engagement & Monetization** – Session behavior, conversion funnel efficiency, trial entry leverage
+- **Growth & Acquisition** – WAL trends, new vs. returning users, acquisition wind-down impact
+- **Activation & Onboarding** – Channel performance, time to first study, activation consistency
+- **Retention & Cohort Health** – Early retention stability, mid-term decay patterns, cohort size context
+- **Engagement & Monetization** – Session behavior, conversion funnel efficiency, trial entry leverage
 
-SQL queries for data inspection and cleaning: **[GitHub Link – Silver Layer]**
+SQL queries for data inspection and cleaning: **[GitHub Link – Silver Layer](https://github.com/AngelDev01/Quizlet-User-Lifecycle-Analytics-/tree/4ee597b88d4856919807bb8285f316e5ac018239/Silver%20Layer)** 
 
-SQL queries for business analysis: **[GitHub Link – Gold Layer & Analytics Marts]**
+SQL queries for business analysis: **[Gold Layer](https://github.com/AngelDev01/Quizlet-User-Lifecycle-Analytics-/tree/4ee597b88d4856919807bb8285f316e5ac018239/Analysis)** | **[Analytics Marts](https://github.com/AngelDev01/Quizlet-User-Lifecycle-Analytics-/tree/4ee597b88d4856919807bb8285f316e5ac018239/Marts)**
 
-Interactive Power BI dashboard: **[NovyPro/Power BI Service Link]**
+Power BI Dashboard: **[View Dashboard](./assets/full_dashboard.png)**
+
+
 
 ---
 
