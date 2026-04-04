@@ -57,8 +57,10 @@ Quizlet grew Weekly Active Learners from **143 to 7,989 users (+5,490%)** in 5 w
 2. **Mid-term decay (Days 30-60) is the real retention risk**, not early onboarding. Users who activate stay engaged for ~1 month, then drop without re-engagement triggers.
 3. **Trial conversion is efficient (58.3%) but underutilized**. The highest-ROI lever is increasing free→trial entry, not optimizing the trial experience itself.
 
-![WAL Trend Line + New vs. Returning Users Stacked Area](./Dashboard/02_wal_growth.png) 
-![WAL Trend Line + New vs. Returning Users Stacked Area](./Dashboard/03_user_composition.png) 
+<p align="center">
+  <img src="./Dashboard/02_wal_growth.png" alt="WAL Trend Line + New vs. Returning Users Stacked Area" width="400"/>
+  <img src="./Dashboard/03_user_composition.png" alt="WAL Trend Line + New vs. Returning Users Stacked Area" width="400"/>
+</p>
 
 ---
 
@@ -74,8 +76,10 @@ Quizlet grew Weekly Active Learners from **143 to 7,989 users (+5,490%)** in 5 w
 
 - **Main Insight 4: Returning user % is a lagging metric that masks growth risk.** Reporting 100% returning users without new user context creates false confidence. **Business metric:** New + Returning + WAL reported together. **Quantified value:** High returning % + 0 new users = growth stagnation signal.
 
-![WAL Trend Line + New vs. Returning Users Stacked Area](./Dashboard/02_wal_growth.png) 
-![WAL Trend Line + New vs. Returning Users Stacked Area](./Dashboard/03_user_composition.png) 
+<p align="center">
+  <img src="./Dashboard/02_wal_growth.png" alt="WAL Trend Line + New vs. Returning Users Stacked Area" width="400"/>
+  <img src="./Dashboard/03_user_composition.png" alt="WAL Trend Line + New vs. Returning Users Stacked Area" width="400"/>
+</p>
 
 ### Category 2: Activation & Onboarding
 
@@ -87,7 +91,9 @@ Quizlet grew Weekly Active Learners from **143 to 7,989 users (+5,490%)** in 5 w
 
 - **Main Insight 4: Time to first study indicates strong onboarding.** Most users activate on Day 0-1 after signup. **Business metric:** Median days to first study session. **Quantified value:** 0-1 days median; indicates immediate value realization.
 
-![Activation Rate by Acquisition Channel – Clustered Column](./Dashboard/04_activation_by_channel.png) 
+<p align="center">
+  <img src="./Dashboard/04_activation_by_channel.png" alt="Activation Rate by Acquisition Channel – Clustered Column" width="500"/>
+</p>
 
 ### Category 3: Retention & Cohort Health
 
@@ -99,8 +105,9 @@ Quizlet grew Weekly Active Learners from **143 to 7,989 users (+5,490%)** in 5 w
 
 - **Main Insight 4: No evidence of onboarding-driven retention failure.** Day 0 retention trended slightly upward (46.73% W9 → 49.76% W14). **Business metric:** Day 0 retention by signup week. **Quantified value:** +3.03 pp improvement; onboarding is functioning as expected.
 
-![Cohort Retention Heatmap](./Dashboard/05_retention_matrix.png) 
-
+<p align="center">
+  <img src="./Dashboard/05_retention_matrix.png" alt="Cohort Retention Heatmap" width="500"/>
+</p>
 
 ### Category 4: Engagement & Monetization
 
@@ -112,8 +119,10 @@ Quizlet grew Weekly Active Learners from **143 to 7,989 users (+5,490%)** in 5 w
 
 - **Main Insight 4: Trial reduces time to conversion significantly.** Free→Premium median: 18 days; Trial→Paid median: 11 days. **Business metric:** Median days to upgrade. **Quantified value:** 7-day acceleration with trial; concentrate conversion efforts in first 2 weeks of trial.
 
-![Subscription bars](./Dashboard/06_monetization.png) 
-![Session Duration Histogram](./Dashboard/07_session_duration.png) 
+<p align="center">
+  <img src="./Dashboard/06_monetization.png" alt="Subscription bars" width="350"/>
+  <img src="./Dashboard/07_session_duration.png" alt="Session Duration Histogram" width="350"/>
+</p>
 
 
 ---
