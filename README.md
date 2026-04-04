@@ -23,7 +23,7 @@ SQL queries for data inspection and cleaning: **[GitHub Link – Silver Layer](h
 
 SQL queries for business analysis: **[Gold Layer](https://github.com/AngelDev01/Quizlet-User-Lifecycle-Analytics-/tree/4ee597b88d4856919807bb8285f316e5ac018239/Analysis)** | **[Analytics Marts](https://github.com/AngelDev01/Quizlet-User-Lifecycle-Analytics-/tree/4ee597b88d4856919807bb8285f316e5ac018239/Marts)**
 
-Power BI Dashboard: **[View Dashboard](./assets/full_dashboard.png)**
+Power BI Dashboard: **[View Dashboard](./Dashboard/01_full_dashboard.png)**
 
 
 
